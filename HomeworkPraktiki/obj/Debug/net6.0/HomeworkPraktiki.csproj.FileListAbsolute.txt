@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\HomeworkPraktikiC#\HomeworkPraktiki\HomeworkPraktiki\bin\Debug\net6.0\HomeworkPraktiki.exe
+C:\Users\User\Desktop\C#\HomeworkPraktikiC#\HomeworkPraktiki\HomeworkPraktiki\bin\Debug\net6.0\HomeworkPraktiki.deps.json
+C:\Users\User\Desktop\C#\HomeworkPraktikiC#\HomeworkPraktiki\HomeworkPraktiki\bin\Debug\net6.0\HomeworkPraktiki.runtimeconfig.json
+C:\Users\User\Desktop\C#\HomeworkPraktikiC#\HomeworkPraktiki\HomeworkPraktiki\bin\Debug\net6.0\HomeworkPraktiki.dll
+C:\Users\User\Desktop\C#\HomeworkPraktikiC#\HomeworkPraktiki\HomeworkPraktiki\bin\Debug\net6.0\HomeworkPraktiki.pdb
+C:\Users\User\Desktop\C#\HomeworkPraktikiC#\HomeworkPraktiki\HomeworkPraktiki\obj\Debug\net6.0\HomeworkPraktiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\HomeworkPraktikiC#\HomeworkPraktiki\HomeworkPraktiki\obj\Debug\net6.0\HomeworkPraktiki.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\HomeworkPraktikiC#\HomeworkPraktiki\HomeworkPraktiki\obj\Debug\net6.0\HomeworkPraktiki.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\HomeworkPraktikiC#\HomeworkPraktiki\HomeworkPraktiki\obj\Debug\net6.0\HomeworkPraktiki.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\HomeworkPraktikiC#\HomeworkPraktiki\HomeworkPraktiki\obj\Debug\net6.0\HomeworkPraktiki.dll
+C:\Users\User\Desktop\C#\HomeworkPraktikiC#\HomeworkPraktiki\HomeworkPraktiki\obj\Debug\net6.0\refint\HomeworkPraktiki.dll
+C:\Users\User\Desktop\C#\HomeworkPraktikiC#\HomeworkPraktiki\HomeworkPraktiki\obj\Debug\net6.0\HomeworkPraktiki.pdb
+C:\Users\User\Desktop\C#\HomeworkPraktikiC#\HomeworkPraktiki\HomeworkPraktiki\obj\Debug\net6.0\HomeworkPraktiki.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\HomeworkPraktikiC#\HomeworkPraktiki\HomeworkPraktiki\obj\Debug\net6.0\ref\HomeworkPraktiki.dll
